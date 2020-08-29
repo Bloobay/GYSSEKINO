@@ -1,0 +1,36 @@
+body {
+  background-color: lightgreen;
+  font-family: sans-serif;
+}
+
+.overskrift {
+  text-align: center;
+  color: red;
+  margin-top: 50px;
+}
+
+.QR {
+  width: 200px;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  }
+
+.velkommen {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  color: grey
+}
